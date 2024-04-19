@@ -1,0 +1,317 @@
+[
+  {
+    "points": 0,
+    "rank": "A",
+    "name": "Ace",
+    "suit": "Diamond"
+  },
+  {
+    "points": 0,
+    "rank": "2",
+    "name": "2",
+    "suit": "Diamond"
+  },
+  {
+    "points": 0,
+    "rank": "3",
+    "name": "3",
+    "suit": "Diamond"
+  },
+  {
+    "points": 0,
+    "rank": "4",
+    "name": "4",
+    "suit": "Diamond"
+  },
+  {
+    "points": 0,
+    "rank": "5",
+    "name": "5",
+    "suit": "Diamond"
+  },
+  {
+    "points": 0,
+    "rank": "6",
+    "name": "6",
+    "suit": "Diamond"
+  },
+  {
+    "points": 0,
+    "rank": "7",
+    "name": "7",
+    "suit": "Diamond"
+  },
+  {
+    "points": 0,
+    "rank": "8",
+    "name": "8",
+    "suit": "Diamond"
+  },
+  {
+    "points": 0,
+    "rank": "9",
+    "name": "9",
+    "suit": "Diamond"
+  },
+  {
+    "points": 2,
+    "rank": "10",
+    "name": "10",
+    "suit": "Diamond"
+  },
+  {
+    "points": 0,
+    "rank": "J",
+    "name": "Jack",
+    "suit": "Diamond"
+  },
+  {
+    "points": 0,
+    "rank": "Q",
+    "name": "Queen",
+    "suit": "Diamond"
+  },
+  {
+    "points": 0,
+    "rank": "K",
+    "name": "King",
+    "suit": "Diamond"
+  },
+
+  {
+    "points": 1,
+    "rank": "A",
+    "name": "Ace",
+    "suit": "Spade"
+  },
+  {
+    "points": 0,
+    "rank": "2",
+    "name": "2",
+    "suit": "Spade"
+  },
+  {
+    "points": 0,
+    "rank": "3",
+    "name": "3",
+    "suit": "Spade"
+  },
+  {
+    "points": 0,
+    "rank": "4",
+    "name": "4",
+    "suit": "Spade"
+  },
+  {
+    "points": 0,
+    "rank": "5",
+    "name": "5",
+    "suit": "Spade"
+  },
+  {
+    "points": 0,
+    "rank": "6",
+    "name": "6",
+    "suit": "Spade"
+  },
+  {
+    "points": 0,
+    "rank": "7",
+    "name": "7",
+    "suit": "Spade"
+  },
+  {
+    "points": 0,
+    "rank": "8",
+    "name": "8",
+    "suit": "Spade"
+  },
+  {
+    "points": 0,
+    "rank": "9",
+    "name": "9",
+    "suit": "Spade"
+  },
+  {
+    "points": 0,
+    "rank": "10",
+    "name": "10",
+    "suit": "Spade"
+  },
+  {
+    "points": 0,
+    "rank": "J",
+    "name": "Jack",
+    "suit": "Spade"
+  },
+  {
+    "points": 0,
+    "rank": "Q",
+    "name": "Queen",
+    "suit": "Spade"
+  },
+  {
+    "points": 0,
+    "rank": "K",
+    "name": "King",
+    "suit": "Spade"
+  },
+
+  {
+    "points": 1,
+    "rank": "A",
+    "name": "Ace",
+    "suit": "Club"
+  },
+  {
+    "points": 0,
+    "rank": "2",
+    "name": "2",
+    "suit": "Club"
+  },
+  {
+    "points": 0,
+    "rank": "3",
+    "name": "3",
+    "suit": "Club"
+  },
+  {
+    "points": 0,
+    "rank": "4",
+    "name": "4",
+    "suit": "Club"
+  },
+  {
+    "points": 0,
+    "rank": "5",
+    "name": "5",
+    "suit": "Club"
+  },
+  {
+    "points": 0,
+    "rank": "6",
+    "name": "6",
+    "suit": "Club"
+  },
+  {
+    "points": 0,
+    "rank": "7",
+    "name": "7",
+    "suit": "Club"
+  },
+  {
+    "points": 0,
+    "rank": "8",
+    "name": "8",
+    "suit": "Club"
+  },
+  {
+    "points": 0,
+    "rank": "9",
+    "name": "9",
+    "suit": "Club"
+  },
+  {
+    "points": 0,
+    "rank": "10",
+    "name": "10",
+    "suit": "Club"
+  },
+  {
+    "points": 0,
+    "rank": "J",
+    "name": "Jack",
+    "suit": "Club"
+  },
+  {
+    "points": 0,
+    "rank": "Q",
+    "name": "Queen",
+    "suit": "Club"
+  },
+  {
+    "points": 0,
+    "rank": "K",
+    "name": "King",
+    "suit": "Club"
+  },
+
+  {
+    "points": 1,
+    "rank": "A",
+    "name": "Ace",
+    "suit": "Heart"
+  },
+  {
+    "points": 0,
+    "rank": "2",
+    "name": "2",
+    "suit": "Heart"
+  },
+  {
+    "points": 0,
+    "rank": "3",
+    "name": "3",
+    "suit": "Heart"
+  },
+  {
+    "points": 0,
+    "rank": "4",
+    "name": "4",
+    "suit": "Heart"
+  },
+  {
+    "points": 0,
+    "rank": "5",
+    "name": "5",
+    "suit": "Heart"
+  },
+  {
+    "points": 0,
+    "rank": "6",
+    "name": "6",
+    "suit": "Heart"
+  },
+  {
+    "points": 0,
+    "rank": "7",
+    "name": "7",
+    "suit": "Heart"
+  },
+  {
+    "points": 0,
+    "rank": "8",
+    "name": "8",
+    "suit": "Heart"
+  },
+  {
+    "points": 0,
+    "rank": "9",
+    "name": "9",
+    "suit": "Heart"
+  },
+  {
+    "points": 0,
+    "rank": "10",
+    "name": "10",
+    "suit": "Heart"
+  },
+  {
+    "points": 0,
+    "rank": "J",
+    "name": "Jack",
+    "suit": "Heart"
+  },
+  {
+    "points": 0,
+    "rank": "Q",
+    "name": "Queen",
+    "suit": "Heart"
+  },
+  {
+    "points": 0,
+    "rank": "K",
+    "name": "King",
+    "suit": "Heart"
+  }
+]
