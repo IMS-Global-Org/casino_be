@@ -18,3 +18,6 @@
 #   - Rake::FileList['*.json']
 
 Rake::Task['decks:all'].invoke
+Rake::Task['clients:all'].invoke
+Rake::Task['addresses:all'].invoke
+Rake::Task['games:all'].invoke

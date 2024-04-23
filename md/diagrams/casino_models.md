@@ -1,10 +1,10 @@
 @startuml
 
 class Authentication {
-  -uuid : String
-  +username : String
-  -password : String
-  +hasAuthenticated?() : Boolean
+  - uuid : String
+  + username : String
+  - password : String
+  + hasAuthenticated?() : Boolean
 }
 
 class Client {
@@ -14,12 +14,13 @@ class Client {
 }
 
 class Address {
-  +street1 : String
-  +street2 : String
-  +city : String[20]
-  +state : String[20]
-  +area_code : Integer
-  +country : String
+  + street1 : String
+  + street2 : String
+  + city : City
+  + state : State
+  + area_code : Integer
+  + area_code_suffix : Integer
+  + country : Country
 }
 
 class Game {
@@ -56,16 +57,16 @@ class Country {
   +name : String
 }
 
-Client "1" *-- "many" Address
-Client *-- Authentication
-Client "1" *-- "many" Game
+Client "1" --* "many" Address
+Client --* Authentication
+Client "1" --* "many" Game
 
-Address *-- Country
-Address *-- State
-Address *-- City
+Address "many" *-- "1" Country
+Address "many" *-- "1" State
+Address "many" *-- "1" City
 
 Game "1" *-- "many" CardDeck
-Game "1" *-- "many" Score
+Game "1" --* "many" Score
 
 CardDeck "1" *-- "many" Card
 

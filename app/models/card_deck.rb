@@ -5,6 +5,7 @@ class CardDeck < ApplicationRecord
   include Talliable
 
   has_many :cards
+  has_many :games
 
   def as_json(_options = {})
     super(include: [:cards])
